@@ -1,4 +1,3 @@
 ultralytics
 streamlit-webrtc
-mediapipe
 opencv-python-headless
