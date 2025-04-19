@@ -4,7 +4,6 @@ import io
 from typing import Any
 
 import cv2
-import mediapipe as mp
 
 from ultralytics import YOLO
 from ultralytics.utils import LOGGER
